@@ -6,8 +6,8 @@ with open('README.md', 'r', encoding='utf-8') as file:
 
 # Por cada cambio es necesario actualizar la version 
 setup(
-    name='cracknight_hack4u',
-    version='0.1.0',
+    name='cracknight',
+    version='2.5.2',
     packages=find_packages(),
     install_requires=[],
     author='Crack Night',

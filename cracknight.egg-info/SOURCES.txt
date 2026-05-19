@@ -1,0 +1,9 @@
+README.md
+setup.py
+cracknight/__init__.py
+cracknight/courses.py
+cracknight/utils.py
+cracknight.egg-info/PKG-INFO
+cracknight.egg-info/SOURCES.txt
+cracknight.egg-info/dependency_links.txt
+cracknight.egg-info/top_level.txt
